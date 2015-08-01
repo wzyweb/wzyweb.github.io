@@ -1,0 +1,95 @@
+/*******************************************************************************
+WZYweb Theme for GitHub Pages
+by wangbin wbwuxi@gmail.com
+*******************************************************************************/
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, nav {
+  display: block;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*******************************************************************************
+Theme Styles
+*******************************************************************************/
+
+body {
+  box-sizing: border-box;
+  color:#000000;
+  background: #ffffff;
+  font-size: 1em;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+h2 {
+    color: #000000;
+}
+
+#container {
+    max-width: 880px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:link, a:visited, a:active {
+    color: #845e70;
+}
+
+a:hover {
+    color: #666666;
+}
+
+nav {
+    width: 100%;
+    margin-top: 5%;
+    background-color: #cccccc;
+    font-size: 1.2em;
+    padding: 1px;
+}
+
+nav #archive {
+    vertical-align: middle;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav a:link, nav a:active, nav a:visited, nav a:hover {
+    color: #dcdddd;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+blockquote {
+    font: 1em normal helvetica, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 3px solid #ccc;
+} 
+
+code {
+    display: block;
+    font: 1em normal courier, helvetica, sans-serif;
+    font-family: Century SchoolBook,Palladio URW;
+    border-left: 2px dotted  #845e70;
+    padding: 10px;
+}
