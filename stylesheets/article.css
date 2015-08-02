@@ -1,0 +1,194 @@
+body {
+    	font-family:"Arial", "sans-serif", "Times New Roman", "Microsoft Sans Serif", "Comic Sans MS", "MS Sans Serif", "Geneva";
+    background-color:#ffffff;
+}
+
+a,a:link {
+color:#333333;
+text-decoration:none; 
+}
+
+a:hover {
+color:#006699;
+text-decoration:none;
+}
+
+.normal {
+	font-family:"Arial", "sans-serif", "Times New Roman", "Microsoft Sans Serif", "Comic Sans MS", "MS Sans Serif", "Geneva";
+	font-size: 16px;
+	color: #333333;
+}
+
+.small {
+	font-family:"Times New Roman", "Arial", "Microsoft Sans Serif", "Comic Sans MS", "MS Sans Serif";
+	font-size: 14px;
+	color: #333333;
+	line-height: 20px;
+
+}
+
+.heimasmall {
+	font-family: "黑体", "Arial";
+	font-size: 22px;
+	color: #666666;
+}
+
+.bottomborder {
+	border-bottom-width: 1px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: dotted;
+	border-left-style: none;
+	border-bottom-color: #666666;
+}
+
+.homekuang {
+	border: 1px dotted #666666;
+}
+
+.indextext {
+    font-size: 14px;
+    text-align: right;
+    padding-right: 10px;
+    vertical-align: baseline;
+    background-color: none;
+    line-height: 120%;
+}
+
+.indextitle {
+    font-family: "Microsoft YaHei", "Arial", "sans-serif", "Times New Roman";
+    font-size: 18px;
+    vertical-align: baseline;
+    line-height: 120%;
+}
+
+.indextitle a {
+    color: #006699;
+}
+
+.indextext2 {
+    font-size: 14px;
+    text-align: center;
+    vertical-align: baseline;
+    background-color: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.indextag {
+    font-size: 14px;
+    text-align: left;
+    margin-left: 100px;
+    vertical-align: baseline;
+    background-color: none;
+    line-height: 160%;
+}
+
+.listnav {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.caption {
+    font-family: "simsun", "Arial", "sans-serif", "Times New Roman";
+    font-size: 14px;
+    color: #666666;
+    padding-bottom: 20px;
+    line-height: 160%;
+}
+
+.posttitle {
+    font-size: 16px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+
+#css-b {
+    font-family: "Microsoft YaHei", "Arial", "sans-serif", "Times New Roman";
+    /*Microsoft YaHei*/
+    width: 650px;
+    text-align: left;
+    left: 50%;
+    margin-left: -325px;
+    position: absolute;
+}
+
+#css-c {        
+    /*标题设置*/
+    margin: 50px 25px 0px 25px;
+}
+
+#css-d {
+    /*meta信息设置*/
+
+}
+
+#css-e {
+    /*文章正文设置*/
+
+}
+
+.bd1 {
+    border-bottom-width: 0px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666666;
+    border-left-width: 1px;
+	border-left-style: dashed;
+	border-left-color: #000000;
+    border-right-width: 0px;
+	border-right-style: dotted;
+	border-right-color: #666666;
+    padding: 10px;
+    line-height: 160%;
+
+}
+
+.bd2 {
+    border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #666666;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 40px;
+    padding-top: none;
+    line-height: 160%;
+
+}
+
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+p {
+     font-size: 16px;
+}
+
+.meta {
+    color: none;
+    font-size: 14px;
+    padding: 5px;
+    float: right;
+    text-align: justify;
+}
+
+.sm {
+    font-family: "Microsoft YaHei", "Arial", "Helvetica", "sans-serif";
+	font-size: 12px;
+	color: #666;
+	line-height: 18px;
+}
+
+.mess {
+    font-size: 14px;
+    float: left;
+    text-align: justify;
+    padding: 5px;
+}
+
+#css-f {
+    /*文章页脚设置*/
+    height: 50px;
+
+}
