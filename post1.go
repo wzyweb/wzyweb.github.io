@@ -126,7 +126,7 @@ func creattagurl() {
 
 func texttohtml() {
     meta := "</div><div class=\"meta\">Written on " + time + " | Tag: <a href=\"../archive/" + tagurl + "1.htm\">" + tag + "</a>"
-    message := "</div><div class=\"mess\"><a href=\"http://www.douban.com/group/heimaphoto/\" target=\"_blank\">留言或讨论请点击这里</a>"
+    message := "</div><div class=\"mess\"><a href=\"http://www.douban.com/group/heimaphoto/\" target=\"_blank\">留言</a>"
     post = "<h2>" + title + "</h2>" + body + meta + message
     if i == 0 {
         nav = ""
