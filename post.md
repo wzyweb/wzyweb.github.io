@@ -1,7 +1,7 @@
-[img-H]../photo/normal/swimming-graduation.jpg
-20150811
+[img-H]../photo/normal/Bubble-Wars.jpg
+20150816
 照片随笔
 
-## 我们毕业啦
+## 百盛门前的泡泡大战 
 
-洋洋今年暑期在无锡市一中游泳馆报名了蛙泳培训班，这是在考试通过后的合影。
+百盛门前，制造了大量的人工泡泡，洋洋正在发功，铁虎重破拳......
