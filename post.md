@@ -1,7 +1,7 @@
-﻿[img-H]../photo/normal/little-reporter.jpg
-20161208
+﻿[img-H]../photo/normal/li-lake-bridge-park.jpg
+20161210
 照片随笔
 
-## 洋洋参加党报小记者活动
+## 洋洋在蠡湖大桥公园散步
 
-2016年洋洋参加党报小记者活动。与308部分官兵合影。
+2016年12月10日，一家人一起在蠡湖大桥公园散步。
